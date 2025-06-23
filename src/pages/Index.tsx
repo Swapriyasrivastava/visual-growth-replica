@@ -27,10 +27,10 @@ const Index = () => {
       <Integrations />
       {/* Section 4 */}
       <Workshops />
-      {/* Section 5 */}
-      <WorkshopAdvantage />
-      {/* Section 6 */}
+      {/* Section 5 - Moved here from below */}
       <AIAutomationSolutions />
+      {/* Section 6 - DESIGNED FOR YOUR CAREER GROWTH moved here */}
+      <WorkshopAdvantage />
       {/* Section 7 */}
       <SuccessStories />
       {/* Section 8 */}
